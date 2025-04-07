@@ -1,0 +1,20 @@
+.contenedor {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.caja-1 {
+    width: 50%;
+    height: 100vh;
+    background-color: blue;
+    color: white;
+    font-size: 85px;
+}
+
+.caja-2 {
+    width: 50%;
+    height: 100vh;
+    background-color: red;
+    color: white;
+    font-size: 85px;
+}
